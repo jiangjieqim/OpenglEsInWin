@@ -59,7 +59,7 @@ Mali_OpenGL_ES_Emulator-v3.0.2.g694a9-Windows-32bit\include
 ...\Mali_OpenGL_ES_Emulator-v3.0.2.g694a9-Windows-32bit\
 libGLESv2.lib,libEGL.lib  
 
->>>>>>>>>>>>>>>>>>>>>>编译脚本>>>>>>>>>>>>>>>>>>>>  
+编译脚本  
 
 环境变量初始化initroot.bat  
 ```
